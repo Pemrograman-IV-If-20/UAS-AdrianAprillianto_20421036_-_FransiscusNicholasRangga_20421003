@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 b81e48178592ea53d6f3d5a9dd59e84d9c41afaa AdrianAP70 <adrianap7758@gmail.com> 1654616408 +0700	commit (initial): init
+b81e48178592ea53d6f3d5a9dd59e84d9c41afaa 0000000000000000000000000000000000000000 AdrianAP70 <adrianap7758@gmail.com> 1654616458 +0700	Branch: renamed refs/heads/master to refs/heads/master
+b81e48178592ea53d6f3d5a9dd59e84d9c41afaa b81e48178592ea53d6f3d5a9dd59e84d9c41afaa AdrianAP70 <adrianap7758@gmail.com> 1654616458 +0700	Branch: renamed refs/heads/master to refs/heads/master
+b81e48178592ea53d6f3d5a9dd59e84d9c41afaa 36d14117e83f0d03d757ec00f5bb5473a909cf85 AdrianAP70 <adrianap7758@gmail.com> 1654616526 +0700	commit: first commit
+36d14117e83f0d03d757ec00f5bb5473a909cf85 8e81b6fa3f525dc5e161d4c40d1481969ac103de AdrianAP70 <adrianap7758@gmail.com> 1654753315 +0700	commit: first commit
+8e81b6fa3f525dc5e161d4c40d1481969ac103de 37fe8588418d2672dc9644e35ebd5ece37831c8b AdrianAP70 <adrianap7758@gmail.com> 1654753403 +0700	pull --tags origin master: Merge made by the 'recursive' strategy.

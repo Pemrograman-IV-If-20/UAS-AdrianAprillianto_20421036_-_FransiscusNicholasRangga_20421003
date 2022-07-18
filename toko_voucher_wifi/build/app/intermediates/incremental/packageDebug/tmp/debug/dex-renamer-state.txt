@@ -1,0 +1,4 @@
+#Mon Jul 18 13:17:24 ICT 2022
+base.0=D\:\\Documents\\FlutterProject\\UAS PM\\toko_voucher_wifi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
